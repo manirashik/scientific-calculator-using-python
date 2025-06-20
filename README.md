@@ -1,5 +1,5 @@
 # scientific-calculator-using-python
-n this project, we build up the scientific calculator using the tkinter library of Python. It is the standard GUI library for Python. With its help, we prepared the GUI for the project, and to add the functionalities of the scientific calculator, we used a math module. 
+In this project, we build up the scientific calculator using the tkinter library of Python. It is the standard GUI library for Python. With its help, we prepared the GUI for the project, and to add the functionalities of the scientific calculator, we used a math module. 
 The first step is importing all the necessary libraries using the “import” keyword. For the latest version, the tkinter module comes under the future module. So first, we have to install the future module with the help of the command “pip install <module-name>”. The future module is a built-in module in Python that inherits new features which is available in the latest Python versions. With “future. moves” we will import the tkinter module.
 
 In the next step, to create an object of the tkinter frame will use “.Tk()”.With this, we will also set the title and geometry of our tkinter application. To set the background color for the project we will use “.config(bg=<color name>)”. And so, with that, we have set black as the background color for this project.
